@@ -1,0 +1,1 @@
+﻿sp_send_dbmail --Bu tarz Araştırma Yapılabilir ve orneklendirme yapılabilir.
