@@ -31,9 +31,12 @@ namespace DBSecurity
             string dbName = txtDBName.Text;
             string passWord;
 
+
             int i;
             int count;
             int k = 0;
+            DateTime dt = DateTime.Now;
+
             count = Convert.ToInt32(txtCount.Text);
             System.IO.StreamReader sr = new System.IO.StreamReader("uniqpass_preview.txt");
 
@@ -59,19 +62,21 @@ namespace DBSecurity
                 {
 
                
-                SqlConnection consql = new SqlConnection(cs);
-                consql.Open();
-                if (consql.State == ConnectionState.Open)
+                SqlConnection conn  = new SqlConnection(cs);
+                conn.Open();
+                if (conn.State == ConnectionState.Open)
                 {
                     lblStatus.Text = "Connected! The Password is " + passWord;
+                    DateTime dt2 = DateTime.Now;
+                    TimeSpan t = dt2 - dt;
+                    lblStatus.Text = "Connected! The Password is " + passWord + "duration: " + t.ToString(@"hh\:mm\:ss");
                     return;
 
                 }
                 }
                 catch (Exception exception)
                 {
-                    Console.WriteLine(exception);
-                    throw;
+                    
                 }
 
 
