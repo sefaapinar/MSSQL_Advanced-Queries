@@ -18,3 +18,15 @@ C:\Users\Sefa\Desktop\Her Yönüyle SQL Server\AdvancedSQLquery\Transaction Appl
 C:\Users\Sefa\Desktop\Her Yönüyle SQL Server\AdvancedSQLquery\Transaction Applications\SQLAdvencedLanguage_Queries\Brute Force - Veri Tabanı Saldırları ve Güvenliği\DBSecurity\DBSecurity\obj\Debug\DBSecurity.csproj.CoreCompileInputs.cache
 C:\Users\Sefa\Desktop\Her Yönüyle SQL Server\AdvancedSQLquery\Transaction Applications\SQLAdvencedLanguage_Queries\Brute Force - Veri Tabanı Saldırları ve Güvenliği\DBSecurity\DBSecurity\obj\Debug\DBSecurity.exe
 C:\Users\Sefa\Desktop\Her Yönüyle SQL Server\AdvancedSQLquery\Transaction Applications\SQLAdvencedLanguage_Queries\Brute Force - Veri Tabanı Saldırları ve Güvenliği\DBSecurity\DBSecurity\obj\Debug\DBSecurity.pdb
+C:\Users\sefap\Desktop\MSSQL_Advanced-Queries\Brute Force - Veri Tabanı Saldırları ve Güvenliği\DBSecurity\DBSecurity\bin\Debug\DBSecurity.exe.config
+C:\Users\sefap\Desktop\MSSQL_Advanced-Queries\Brute Force - Veri Tabanı Saldırları ve Güvenliği\DBSecurity\DBSecurity\bin\Debug\DBSecurity.exe
+C:\Users\sefap\Desktop\MSSQL_Advanced-Queries\Brute Force - Veri Tabanı Saldırları ve Güvenliği\DBSecurity\DBSecurity\bin\Debug\DBSecurity.pdb
+C:\Users\sefap\Desktop\MSSQL_Advanced-Queries\Brute Force - Veri Tabanı Saldırları ve Güvenliği\DBSecurity\DBSecurity\obj\Debug\DBSecurity.csproj.AssemblyReference.cache
+C:\Users\sefap\Desktop\MSSQL_Advanced-Queries\Brute Force - Veri Tabanı Saldırları ve Güvenliği\DBSecurity\DBSecurity\obj\Debug\DBSecurity.csproj.SuggestedBindingRedirects.cache
+C:\Users\sefap\Desktop\MSSQL_Advanced-Queries\Brute Force - Veri Tabanı Saldırları ve Güvenliği\DBSecurity\DBSecurity\obj\Debug\DBSecurity.FRMBrutForce.resources
+C:\Users\sefap\Desktop\MSSQL_Advanced-Queries\Brute Force - Veri Tabanı Saldırları ve Güvenliği\DBSecurity\DBSecurity\obj\Debug\DBSecurity.Properties.Resources.resources
+C:\Users\sefap\Desktop\MSSQL_Advanced-Queries\Brute Force - Veri Tabanı Saldırları ve Güvenliği\DBSecurity\DBSecurity\obj\Debug\DBSecurity.csproj.GenerateResource.cache
+C:\Users\sefap\Desktop\MSSQL_Advanced-Queries\Brute Force - Veri Tabanı Saldırları ve Güvenliği\DBSecurity\DBSecurity\obj\Debug\DBSecurity.csproj.CoreCompileInputs.cache
+C:\Users\sefap\Desktop\MSSQL_Advanced-Queries\Brute Force - Veri Tabanı Saldırları ve Güvenliği\DBSecurity\DBSecurity\obj\Debug\DBSecurity.exe
+C:\Users\sefap\Desktop\MSSQL_Advanced-Queries\Brute Force - Veri Tabanı Saldırları ve Güvenliği\DBSecurity\DBSecurity\obj\Debug\DBSecurity.pdb
+C:\Users\sefap\Desktop\MSSQL_Advanced-Queries\Brute Force - Veri Tabanı Saldırları ve Güvenliği\DBSecurity\DBSecurity\bin\Debug\uniqpass_preview.txt

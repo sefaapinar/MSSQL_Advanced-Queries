@@ -75,6 +75,7 @@ namespace DBSecurity
             this.txtServerName.Name = "txtServerName";
             this.txtServerName.Size = new System.Drawing.Size(100, 20);
             this.txtServerName.TabIndex = 4;
+            this.txtServerName.Text = "192.168.84.128";
             // 
             // txtUserName
             // 

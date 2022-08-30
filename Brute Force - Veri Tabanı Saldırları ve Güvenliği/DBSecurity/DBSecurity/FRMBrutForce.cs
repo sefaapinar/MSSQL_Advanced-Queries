@@ -57,12 +57,10 @@ namespace DBSecurity
                 }
 
                 cs = "DATA SOURCE = " + serverName + ";INITIAL CATALOG=" + dbName + ";UID=" + userName + ";PASSWORD=" +
-                     passWord + ";CONNECT TIMEOUT =1";
+                     passWord + ";CONNECT TIMEOUT = 1";
                 try
                 {
-
-               
-                SqlConnection conn  = new SqlConnection(cs);
+                    SqlConnection conn  = new SqlConnection(cs);
                 conn.Open();
                 if (conn.State == ConnectionState.Open)
                 {
