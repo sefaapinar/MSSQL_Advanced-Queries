@@ -16,7 +16,7 @@ namespace DBSecurity
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FRMBrutForce());
+            Application.Run(new frmSUGGESTION());
         }
     }
 }

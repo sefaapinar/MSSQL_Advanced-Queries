@@ -52,10 +52,19 @@
     <Compile Include="FRMBrutForce.Designer.cs">
       <DependentUpon>FRMBrutForce.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmSUGGESTION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSUGGESTION.Designer.cs">
+      <DependentUpon>frmSUGGESTION.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FRMBrutForce.resx">
       <DependentUpon>FRMBrutForce.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSUGGESTION.resx">
+      <DependentUpon>frmSUGGESTION.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

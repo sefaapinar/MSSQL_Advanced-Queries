@@ -30,3 +30,4 @@ C:\Users\sefap\Desktop\MSSQL_Advanced-Queries\Brute Force - Veri Tabanı Saldır
 C:\Users\sefap\Desktop\MSSQL_Advanced-Queries\Brute Force - Veri Tabanı Saldırları ve Güvenliği\DBSecurity\DBSecurity\obj\Debug\DBSecurity.exe
 C:\Users\sefap\Desktop\MSSQL_Advanced-Queries\Brute Force - Veri Tabanı Saldırları ve Güvenliği\DBSecurity\DBSecurity\obj\Debug\DBSecurity.pdb
 C:\Users\sefap\Desktop\MSSQL_Advanced-Queries\Brute Force - Veri Tabanı Saldırları ve Güvenliği\DBSecurity\DBSecurity\bin\Debug\uniqpass_preview.txt
+C:\Users\sefap\Desktop\MSSQL_Advanced-Queries\Brute Force - Veri Tabanı Saldırları ve Güvenliği\DBSecurity\DBSecurity\obj\Debug\DBSecurity.frmSUGGESTION.resources

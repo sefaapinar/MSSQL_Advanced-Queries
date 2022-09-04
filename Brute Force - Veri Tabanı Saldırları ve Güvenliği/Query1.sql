@@ -1,0 +1,23 @@
+CREATE TRIGGER BRUTE_FORCE_LOGON_CONTROL
+ON ALL SERVER
+FOR LOGON
+AS
+BEGIN
+
+
+
+
+
+
+
+SELECT CONNECTIONPROPERTY('client_net_address')
+
+DECLARE @COUNT AS INT
+SELECT @COUNT = COUNT(*) FROM AUDIT.dbo.BRUTE_FORCE_ATTACK
+WHERE COMPUTERIP = CONNECTIONPROPERTY('client_net_adress')
+IF ISNULL(@COUNT,0)>0
+BEGIN
+	ROLLBACK
+END
+END
+--MASTER DATABASE'De tutulur triggler önemli olduklarý için, master db'nin bir yedeði alýnýr her zaman.
