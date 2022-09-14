@@ -1,0 +1,37 @@
+c:\users\omerc\documents\visual studio 2017\Projects\DBSecurity\DBSecurity\bin\Debug\DBSecurity.exe.config
+c:\users\omerc\documents\visual studio 2017\Projects\DBSecurity\DBSecurity\bin\Debug\DBSecurity.exe
+c:\users\omerc\documents\visual studio 2017\Projects\DBSecurity\DBSecurity\bin\Debug\DBSecurity.pdb
+c:\users\omerc\documents\visual studio 2017\Projects\DBSecurity\DBSecurity\obj\Debug\DBSecurity.csprojResolveAssemblyReference.cache
+c:\users\omerc\documents\visual studio 2017\Projects\DBSecurity\DBSecurity\obj\Debug\DBSecurity.frmBruteForce.resources
+c:\users\omerc\documents\visual studio 2017\Projects\DBSecurity\DBSecurity\obj\Debug\DBSecurity.Properties.Resources.resources
+c:\users\omerc\documents\visual studio 2017\Projects\DBSecurity\DBSecurity\obj\Debug\DBSecurity.csproj.GenerateResource.Cache
+c:\users\omerc\documents\visual studio 2017\Projects\DBSecurity\DBSecurity\obj\Debug\DBSecurity.exe
+c:\users\omerc\documents\visual studio 2017\Projects\DBSecurity\DBSecurity\obj\Debug\DBSecurity.pdb
+c:\users\omerc\documents\visual studio 2017\Projects\DBSecurity\DBSecurity\bin\Debug\uniqpass_preview.txt
+C:\Users\omerc\Documents\Visual Studio 2017\Projects\DBSecurity\DBSecurity\obj\Debug\DBSecurity.Form1.resources
+C:\Users\omerc\Documents\Visual Studio 2017\Projects\DBSecurity\DBSecurity\obj\Debug\DBSecurity.frmSuggestion.resources
+D:\UdemyEgitim\DBSecurity\Resources\DBSecurity\DBSecurity\bin\Debug\uniqpass_preview.txt
+D:\UdemyEgitim\DBSecurity\Resources\DBSecurity\DBSecurity\bin\Debug\DBSecurity.exe.config
+D:\UdemyEgitim\DBSecurity\Resources\DBSecurity\DBSecurity\bin\Debug\DBSecurity.exe
+D:\UdemyEgitim\DBSecurity\Resources\DBSecurity\DBSecurity\bin\Debug\DBSecurity.pdb
+D:\UdemyEgitim\DBSecurity\Resources\DBSecurity\DBSecurity\obj\Debug\DBSecurity.csprojResolveAssemblyReference.cache
+D:\UdemyEgitim\DBSecurity\Resources\DBSecurity\DBSecurity\obj\Debug\DBSecurity.Form1.resources
+D:\UdemyEgitim\DBSecurity\Resources\DBSecurity\DBSecurity\obj\Debug\DBSecurity.frmBruteForce.resources
+D:\UdemyEgitim\DBSecurity\Resources\DBSecurity\DBSecurity\obj\Debug\DBSecurity.frmSuggestion.resources
+D:\UdemyEgitim\DBSecurity\Resources\DBSecurity\DBSecurity\obj\Debug\DBSecurity.Properties.Resources.resources
+D:\UdemyEgitim\DBSecurity\Resources\DBSecurity\DBSecurity\obj\Debug\DBSecurity.csproj.GenerateResource.Cache
+D:\UdemyEgitim\DBSecurity\Resources\DBSecurity\DBSecurity\obj\Debug\DBSecurity.exe
+D:\UdemyEgitim\DBSecurity\Resources\DBSecurity\DBSecurity\obj\Debug\DBSecurity.pdb
+C:\Users\Sefa\Desktop\Her Yönüyle SQL Server(MSSQL)\VeritabaniGuvenligiKaynaklar\VisualStudioApplications\DBSecurity\DBSecurity\bin\Debug\uniqpass_preview.txt
+C:\Users\Sefa\Desktop\Her Yönüyle SQL Server(MSSQL)\VeritabaniGuvenligiKaynaklar\VisualStudioApplications\DBSecurity\DBSecurity\bin\Debug\DBSecurity.exe.config
+C:\Users\Sefa\Desktop\Her Yönüyle SQL Server(MSSQL)\VeritabaniGuvenligiKaynaklar\VisualStudioApplications\DBSecurity\DBSecurity\bin\Debug\DBSecurity.exe
+C:\Users\Sefa\Desktop\Her Yönüyle SQL Server(MSSQL)\VeritabaniGuvenligiKaynaklar\VisualStudioApplications\DBSecurity\DBSecurity\bin\Debug\DBSecurity.pdb
+C:\Users\Sefa\Desktop\Her Yönüyle SQL Server(MSSQL)\VeritabaniGuvenligiKaynaklar\VisualStudioApplications\DBSecurity\DBSecurity\obj\Debug\DBSecurity.csproj.AssemblyReference.cache
+C:\Users\Sefa\Desktop\Her Yönüyle SQL Server(MSSQL)\VeritabaniGuvenligiKaynaklar\VisualStudioApplications\DBSecurity\DBSecurity\obj\Debug\DBSecurity.Form1.resources
+C:\Users\Sefa\Desktop\Her Yönüyle SQL Server(MSSQL)\VeritabaniGuvenligiKaynaklar\VisualStudioApplications\DBSecurity\DBSecurity\obj\Debug\DBSecurity.frmBruteForce.resources
+C:\Users\Sefa\Desktop\Her Yönüyle SQL Server(MSSQL)\VeritabaniGuvenligiKaynaklar\VisualStudioApplications\DBSecurity\DBSecurity\obj\Debug\DBSecurity.frmSuggestion.resources
+C:\Users\Sefa\Desktop\Her Yönüyle SQL Server(MSSQL)\VeritabaniGuvenligiKaynaklar\VisualStudioApplications\DBSecurity\DBSecurity\obj\Debug\DBSecurity.Properties.Resources.resources
+C:\Users\Sefa\Desktop\Her Yönüyle SQL Server(MSSQL)\VeritabaniGuvenligiKaynaklar\VisualStudioApplications\DBSecurity\DBSecurity\obj\Debug\DBSecurity.csproj.GenerateResource.cache
+C:\Users\Sefa\Desktop\Her Yönüyle SQL Server(MSSQL)\VeritabaniGuvenligiKaynaklar\VisualStudioApplications\DBSecurity\DBSecurity\obj\Debug\DBSecurity.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\Her Yönüyle SQL Server(MSSQL)\VeritabaniGuvenligiKaynaklar\VisualStudioApplications\DBSecurity\DBSecurity\obj\Debug\DBSecurity.exe
+C:\Users\Sefa\Desktop\Her Yönüyle SQL Server(MSSQL)\VeritabaniGuvenligiKaynaklar\VisualStudioApplications\DBSecurity\DBSecurity\obj\Debug\DBSecurity.pdb
